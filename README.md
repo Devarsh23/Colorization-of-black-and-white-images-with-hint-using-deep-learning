@@ -26,7 +26,7 @@ If you want to incorporate this with the outer camera the you can add the url + 
 The directory structure here is very simple you just only need to put all the above listed files under one directory 
 # Detailed Description of code
 # Special Thanks
-We would like to thanks krish naik for encouraging us to do such a lovely project
+We would like to thanks krish naik for encouraging us to do such a lovely project of colorization.
 
 
 
