@@ -14,17 +14,13 @@
 # Demo Of the output
 ## Before
 
-![Image of Line](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line2.png)
-
-![Image of Line1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line3.png)
+![Image of Line](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line2.png) ![Image of Line1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line3.png)
 
 
 
 ## After
 
-![Final Image](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color2.png)
-
-![Final Image1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color3.png)
+![Final Image](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color2.png) ![Final Image1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color3.png)
 
 
 # The overview of this repository
