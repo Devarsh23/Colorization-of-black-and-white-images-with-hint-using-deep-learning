@@ -1,5 +1,5 @@
 # Colorization-of-black-and-white-images-with-hint-using-deep
-# This project is done by <a href="https://github.com/Devarsh23 ">Devarsh Patel</a>  , <a href="https://github.com/shubhambavishi">Shubham Bavishi</a> And <a href="https://github.com/Rutviklathiya">Rutvik Lathiya</a>
+# This project is done by <a href="https://github.com/Devarsh23 ">Devarsh Patel</a>  , <a href="https://github.com/shubhambavishi">Shubham Bavishi</a> , <a href="https://github.com/Rutviklathiya">Rutvik Lathiya</a> And <a href="https://github.com/fallen2112">Hiten Patel</a>
 ## Table of content
 [1. Demo](#demo-of-the-output) <br />
 [2.The overview of this repository](#the-overview-of-this-repository) <br />
@@ -14,11 +14,18 @@
 # Demo Of the output
 ## Before
 
-![Image of Line](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/line2.png)
+![Image of Line](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line2.png)
+
+![Image of Line1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/line3.png)
+
+
 
 ## After
 
-![Final Image](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/color2.png)
+![Final Image](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color2.png)
+
+![Final Image1](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/Output/color3.png)
+
 
 # The overview of this repository
 Describes about the usefulness of deep learning and computer vision to colorize the black and white pictures with hint <br />
