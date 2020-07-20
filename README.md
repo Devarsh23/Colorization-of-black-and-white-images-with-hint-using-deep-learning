@@ -1,5 +1,4 @@
 # Colorization-of-black-and-white-images-with-hint-using-deep
-# Maintaining-Social-Distancing-Through-Deep-Learning-and-OpenCv
 # This project is done by <a href="https://github.com/Devarsh23 ">Devarsh Patel</a>  , <a href="https://github.com/shubhambavishi">Shubham Bavishi</a> And <a href="https://github.com/Rutviklathiya">Rutvik Lathiya</a>
 ## Table of content
 [1. Demo](#demo-of-the-output) <br />
@@ -13,8 +12,14 @@
 
 
 # Demo Of the output
-Before
+## Before
+
 ![Image of Line](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/line2.png)
+
+## After
+
+![Final Image](https://github.com/Devarsh23/Colorization-of-black-and-white-images-with-hint-using-deep-learning/blob/master/color2.png)
+
 # The overview of this repository
 Describes about the usefulness of deep learning and computer vision to colorize the black and white pictures with hint <br />
 # Motivation behind the project:
