@@ -31,9 +31,13 @@ So, in such situation by using the technology like deep learning  we can help th
 # To do 
 Basically, you can run the colourization.ipynb file after cloning this GitHub repository. <br /> 
 If you want to incorporate this with the outer camera the you can add the url + “/video” in the VideoCapture argument to use it on any mobile with ipwebcam or cctv camera. <br />
+Dataset can be downloaded from this <a href="https://cocodataset.org/#home">Link</a><br/>
+To download pretrained model click <a href="https://cocodataset.org/#home">Here</a> for draft model and <a href="https://cocodataset.org/#home">Here</a> for refined model
 # Directory Structure
-The directory structure here is very simple you just only need to put all the above listed files under one directory 
+The directory structure here is very simple it includes the Folder named Model which includes two python files which contains various classes in it to help both the model to train. It also include Preprocess folder which includes python file named dataset.py which helps to prepreocess the dataset and change it in to the model input specific dataset.
+Other than this it contains train python file named refined_train and draft_train to actually train both the required model. Hyperparameter.py and subnet.py are the supportive file which indicates the halping variable and function useful for training purpose. Lastly, it includes the test file to test our ready model for real world scenario.
 # Detailed Description of code
+For detailed understanding follow the python notebook named Colorization this will help you to understand whole code and also it will recapitulate the whole code for you in to one place in chronological order. 
 # Special Thanks
 We would like to thanks krish naik for encouraging us to do such a lovely project of colorization.
 
